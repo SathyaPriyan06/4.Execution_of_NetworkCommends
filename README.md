@@ -70,6 +70,12 @@ while True:
 s.close()
 ```
 ## Output
+## Server:
+<img width="1477" height="348" alt="image" src="https://github.com/user-attachments/assets/334e35e7-8e2b-4987-8971-8ae7b9d9a2f8" />
+
+## Client:
+
+<img width="1469" height="308" alt="image" src="https://github.com/user-attachments/assets/3c492b38-c529-4547-a8d9-eebd1d8d1fb9" />
 
 ## Result
 Thus Execution of Network commands Performed 
