@@ -80,6 +80,7 @@ s.close()
 ## Tracert:
 
 <img width="1210" height="403" alt="image" src="https://github.com/user-attachments/assets/1a4b9748-3e4d-401e-ba33-b14878d80db8" />
+
 ## IP Config:
 
 <img width="1317" height="702" alt="image" src="https://github.com/user-attachments/assets/2fffa775-44c0-415a-8b82-5fd310543492" />
