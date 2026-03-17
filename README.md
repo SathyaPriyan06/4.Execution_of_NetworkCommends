@@ -77,5 +77,20 @@ s.close()
 
 <img width="1469" height="308" alt="image" src="https://github.com/user-attachments/assets/3c492b38-c529-4547-a8d9-eebd1d8d1fb9" />
 
+## Tracert:
+
+<img width="1210" height="403" alt="image" src="https://github.com/user-attachments/assets/1a4b9748-3e4d-401e-ba33-b14878d80db8" />
+## IP Config:
+
+<img width="1317" height="702" alt="image" src="https://github.com/user-attachments/assets/2fffa775-44c0-415a-8b82-5fd310543492" />
+
+## nslookup:
+
+<img width="1057" height="522" alt="image" src="https://github.com/user-attachments/assets/d65b7c18-305f-41e8-aee3-74600ae4a854" />
+
+## Netstat:
+
+<img width="889" height="667" alt="image" src="https://github.com/user-attachments/assets/0b0efcd4-e1d0-49d0-acf8-d618916c031a" />
+
 ## Result
 Thus Execution of Network commands Performed 
