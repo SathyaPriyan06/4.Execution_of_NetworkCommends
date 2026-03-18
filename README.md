@@ -28,7 +28,6 @@ This commands includes
 ## Program:
 ## Server:
 ```
-server.py
 import socket
 from pythonping import ping
 
@@ -54,7 +53,6 @@ c.close()
 ```
 ## Client:
 ```
-client.py
 import socket
 
 s = socket.socket()
